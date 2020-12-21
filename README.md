@@ -26,11 +26,6 @@
 <br />
 <br />
 
----
-
----
-
-
 
 
 [twitter]: https://twitter.com/mohamed__khira
