@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mkhira | Facebok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebok.svg" />][facebok]
+[<img align="left" alt="Mkhira | Facebok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebok]
 [<img align="left" alt="Mkhira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mkhira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mkhira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
