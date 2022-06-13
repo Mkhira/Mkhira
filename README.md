@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on ... freelance Flutter developer
 - 🌱 I’m currently improving Flutter developer skills 
 - 👯 I'm looking to learn more language and skills
-- 🥅 2020 Goals: start work in a company
 - ⚡ Fun fact: I love fishing
 
 
