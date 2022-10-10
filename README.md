@@ -1,15 +1,22 @@
-### Hi there, I'm Mohamed khaled khira  👋
-
-
-## I'm a Flutter developer!!
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&width=500&lines=Welcome+to+Mohamed+Khaled's+profile!;Mobile+App+developer;Software+Engineering;Always+learning+new+thing!;Nice+to+meet+you+...)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ... freelance Flutter developer
 - 🌱 I’m currently improving Flutter developer skills 
 - 👯 I'm looking to learn more language and skills
 - ⚡ Fun fact: I love fishing
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=emranco&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
 
-### Connect with me:
+# 🔥 Streak stats
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mkhira&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mkhira&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mkhira&theme=highcontrast&hide_border=true" alt="#your-username" />
+</p>
+
+
+# Connect with me:
 
 [<img align="left" alt="Mkhira | Facebok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebok]
 [<img align="left" alt="Mkhira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -18,7 +25,7 @@
 
 <br />
 
-### Languages and Tools:
+# 👨‍💻 Languages and Tools
 <img align="left" alt="Flutter" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="Dart" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 <img align="left" alt="Json" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
@@ -43,3 +50,4 @@
 [linkedin]: https://www.linkedin.com/in/mohamed-khaled-058719197/
 [facebok]: https://www.facebook.com/mahmoud.alabgerr
 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
