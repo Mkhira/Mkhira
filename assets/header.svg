@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Mohamed Khaled, Senior Flutter and React Native Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="55%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F7962D"/>
+      <stop offset="50%" stop-color="#f43f5e"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#F7962D" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#F7962D" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="900" height="270" rx="22"/></clipPath>
+  </defs>
+  <style>
+    .name { font: 700 54px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; letter-spacing: -0.5px; }
+    .hi   { font: 500 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #cbd5e1; }
+    .type { font: 500 22px 'SFMono-Regular', Menlo, Consolas, 'Courier New', monospace; fill: #F7962D; }
+    .cursor { fill: #F7962D; }
+    .chiptext { font: 500 14px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+    .up { opacity: 0; transform: translateY(18px); animation: up 0.8s cubic-bezier(.2,.8,.2,1) forwards; }
+    .chip { opacity: 0; transform: translateY(10px); animation: up 0.6s cubic-bezier(.2,.8,.2,1) forwards; }
+    .bar { transform-origin: 60px 0; transform: scaleX(0); animation: bar 0.9s 0.9s cubic-bezier(.2,.8,.2,1) forwards; }
+    .wave { transform-origin: 46px 76px; animation: wave 2.2s 1.2s ease-in-out infinite; }
+    .orb1 { animation: drift1 9s ease-in-out infinite; }
+    .orb2 { animation: drift2 11s ease-in-out infinite; }
+    @keyframes up   { to { opacity: 1; transform: translateY(0); } }
+    @keyframes bar  { to { transform: scaleX(1); } }
+    @keyframes wave { 0%,100% { transform: rotate(0deg); } 15% { transform: rotate(16deg); } 30% { transform: rotate(-8deg); } 45% { transform: rotate(14deg); } 60% { transform: rotate(-4deg); } 75% { transform: rotate(8deg); } }
+    @keyframes drift1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(-40px,25px); } }
+    @keyframes drift2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(35px,-20px); } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="270" fill="url(#bg)"/>
+    <circle class="orb1" cx="780" cy="60" r="170" fill="url(#glow1)"/>
+    <circle class="orb2" cx="700" cy="250" r="160" fill="url(#glow2)"/>
+    <g opacity="0.06" stroke="#fff" stroke-width="1"><line x1="0" y1="0" x2="0" y2="270"/><line x1="45" y1="0" x2="45" y2="270"/><line x1="90" y1="0" x2="90" y2="270"/><line x1="135" y1="0" x2="135" y2="270"/><line x1="180" y1="0" x2="180" y2="270"/><line x1="225" y1="0" x2="225" y2="270"/><line x1="270" y1="0" x2="270" y2="270"/><line x1="315" y1="0" x2="315" y2="270"/><line x1="360" y1="0" x2="360" y2="270"/><line x1="405" y1="0" x2="405" y2="270"/><line x1="450" y1="0" x2="450" y2="270"/><line x1="495" y1="0" x2="495" y2="270"/><line x1="540" y1="0" x2="540" y2="270"/><line x1="585" y1="0" x2="585" y2="270"/><line x1="630" y1="0" x2="630" y2="270"/><line x1="675" y1="0" x2="675" y2="270"/><line x1="720" y1="0" x2="720" y2="270"/><line x1="765" y1="0" x2="765" y2="270"/><line x1="810" y1="0" x2="810" y2="270"/><line x1="855" y1="0" x2="855" y2="270"/><line x1="900" y1="0" x2="900" y2="270"/><line x1="0" y1="0" x2="900" y2="0"/><line x1="0" y1="45" x2="900" y2="45"/><line x1="0" y1="90" x2="900" y2="90"/><line x1="0" y1="135" x2="900" y2="135"/><line x1="0" y1="180" x2="900" y2="180"/><line x1="0" y1="225" x2="900" y2="225"/><line x1="0" y1="270" x2="900" y2="270"/></g>
+    <rect x="0" y="0" width="900" height="4" fill="url(#accent)"/>
+  </g>
+
+  <text class="hi up" x="60" y="82" style="animation-delay:0.1s"><tspan class="wave">👋</tspan>  Hi there, I'm</text>
+  <text class="name up" x="60" y="136" style="animation-delay:0.35s">Mohamed Khaled</text>
+  <rect class="bar" x="60" y="148" width="260" height="4" rx="2" fill="url(#accent)"/>
+  
+    <g>
+      <clipPath id="c0"><rect x="60" y="162" height="32" width="0">
+        <animate attributeName="width" values="0;0;494;494;0;0" keyTimes="0;0.0000;0.0889;0.2167;0.2500;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect></clipPath>
+      <text class="type" x="60" y="184" textLength="494" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)">Senior Flutter &amp; React Native Engineer</text>
+      <rect class="cursor" x="62" y="164" width="3" height="26" rx="1">
+        <animate attributeName="x" values="62;62;558;558;62;62" keyTimes="0;0.0000;0.0889;0.2167;0.2500;1" dur="18.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0889;0.2167;0.2500;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+      <clipPath id="c1"><rect x="60" y="162" height="32" width="0">
+        <animate attributeName="width" values="0;0;559;559;0;0" keyTimes="0;0.2500;0.3389;0.4667;0.5000;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect></clipPath>
+      <text class="type" x="60" y="184" textLength="559" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)">Building ZATCA Mobile · React Native + Expo</text>
+      <rect class="cursor" x="62" y="164" width="3" height="26" rx="1">
+        <animate attributeName="x" values="62;62;623;623;62;62" keyTimes="0;0.2500;0.3389;0.4667;0.5000;1" dur="18.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2500;0.3389;0.4667;0.5000;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+      <clipPath id="c2"><rect x="60" y="162" height="32" width="0">
+        <animate attributeName="width" values="0;0;455;455;0;0" keyTimes="0;0.5000;0.5889;0.7167;0.7500;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect></clipPath>
+      <text class="type" x="60" y="184" textLength="455" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)">Clean Architecture · SOLID · Tested</text>
+      <rect class="cursor" x="62" y="164" width="3" height="26" rx="1">
+        <animate attributeName="x" values="62;62;519;519;62;62" keyTimes="0;0.5000;0.5889;0.7167;0.7500;1" dur="18.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5889;0.7167;0.7500;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g>
+      <clipPath id="c3"><rect x="60" y="162" height="32" width="0">
+        <animate attributeName="width" values="0;0;598;598;0;0" keyTimes="0;0.7500;0.8389;0.9667;1.0000;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect></clipPath>
+      <text class="type" x="60" y="184" textLength="598" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)">Building skills &amp; plugins for AI coding agents</text>
+      <rect class="cursor" x="62" y="164" width="3" height="26" rx="1">
+        <animate attributeName="x" values="62;62;662;662;62;62" keyTimes="0;0.7500;0.8389;0.9667;1.0000;1" dur="18.0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.7500;0.8389;0.9667;1.0000;1" dur="18.0s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  
+    <g class="chip" style="animation-delay:1.40s">
+      <rect x="60" y="212" width="146" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+      <text x="74" y="235" font-size="15">📍</text>
+      <text x="98" y="234" class="chiptext">Saudi Arabia</text>
+    </g>
+    <g class="chip" style="animation-delay:1.58s">
+      <rect x="216" y="212" width="163" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+      <text x="230" y="235" font-size="15">💼</text>
+      <text x="254" y="234" class="chiptext">InnovationTeam</text>
+    </g>
+    <g class="chip" style="animation-delay:1.76s">
+      <rect x="389" y="212" width="228" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+      <text x="403" y="235" font-size="15">📱</text>
+      <text x="427" y="234" class="chiptext">Flutter · React Native</text>
+    </g>
+    <g class="chip" style="animation-delay:1.94s">
+      <rect x="627" y="212" width="171" height="34" rx="17" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.18)"/>
+      <text x="641" y="235" font-size="15">🤖</text>
+      <text x="665" y="234" class="chiptext">AI-assisted dev</text>
+    </g>
+</svg>

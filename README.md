@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohamed+Khaled;Senior+Flutter+%26+React+Native+Engineer;I+build+bilingual+AR%2FEN+mobile+apps;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Tested;Building+tools+for+AI+coding+agents;Let's+build+something+great+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-**Mobile Engineer · Flutter & React Native · Clean Architecture · AI-augmented development**
-
-📍 Saudi Arabia &nbsp;·&nbsp; 💼 Mobile Engineer @ InnovationTeam
+<img src="./assets/header.svg" alt="Mohamed Khaled — Senior Flutter & React Native Engineer" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khaled-058719197/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mohamed__khira)
