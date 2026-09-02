@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Khaled+%F0%9F%91%8B;Flutter+%26+React+Native+Developer;Clean+Architecture+Advocate;AI-assisted+%2F+Vibe+Coding+Builder;Always+learning+something+new!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Mohamed+Khaled;Senior+Flutter+%26+React+Native+Engineer;I+build+bilingual+AR%2FEN+mobile+apps;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+Tested;Building+tools+for+AI+coding+agents;Let's+build+something+great+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 **Mobile Engineer · Flutter & React Native · Clean Architecture · AI-augmented development**
 
-📍 Bahrain &nbsp;·&nbsp; 💼 Flutter Developer @ Posbank &nbsp;·&nbsp; 🎣 Fishing when not shipping
+📍 Saudi Arabia &nbsp;·&nbsp; 💼 Mobile Engineer @ InnovationTeam
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-khaled-058719197/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mohamed__khira)
@@ -23,7 +23,7 @@ I'm a mobile engineer who has been shipping **Flutter** apps since 2019 and now 
 
 Lately I've been deep in **AI-assisted ("vibe") coding**: I don't just use tools like Claude Code, I build **skills, plugins and LSP integrations** for them so the agent generates layered, type-safe, tested code instead of ad-hoc snippets.
 
-- 🔭 Currently building a large-scale **React Native (Expo) + TypeScript** app with clean architecture, `tsyringe` DI, react-query, i18n (EN/AR, full RTL) and Jest.
+- 🔭 Currently building **ZATCA Mobile**, the Saudi Zakat, Tax and Customs Authority app, in **React Native (Expo) + TypeScript** with clean architecture, `tsyringe` DI, react-query, i18n (EN/AR, full RTL) and Jest.
 - 🛠️ Maintaining open-source **Claude Code skills & plugins** for Flutter and React Native.
 - 🌱 Exploring agent workflows, script-driven code generation and token-efficient prompting.
 - 🌍 Bilingual apps are my specialty: Arabic/English UI, RTL layouts and Arabic text normalisation.
