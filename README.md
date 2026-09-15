@@ -19,7 +19,7 @@ I'm a mobile engineer who has been shipping **Flutter** apps since 2019 and now 
 
 Lately I've been deep in **AI-assisted ("vibe") coding**: I don't just use tools like Claude Code, I build **skills, plugins and LSP integrations** for them so the agent generates layered, type-safe, tested code instead of ad-hoc snippets.
 
-- 🔭 Currently building **ZATCA Mobile**, the Saudi Zakat, Tax and Customs Authority app, in **React Native (Expo) + TypeScript** with clean architecture, `tsyringe` DI, react-query, i18n (EN/AR, full RTL) and Jest.
+- 🔭 Currently building a **government tax & customs mobile app** for the Saudi Zakat, Tax and Customs Authority, in **React Native (Expo) + TypeScript** with clean architecture, `tsyringe` DI, react-query, i18n (EN/AR, full RTL) and Jest.
 - 🛠️ Maintaining open-source **Claude Code skills & plugins** for Flutter and React Native.
 - 🌱 Exploring agent workflows, script-driven code generation and token-efficient prompting.
 - 🌍 Bilingual apps are my specialty: Arabic/English UI, RTL layouts and Arabic text normalisation.
